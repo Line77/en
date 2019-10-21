@@ -3,158 +3,198 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: José Velarde
-    tagline: Ingeniero Electrónico
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: josevelarde00@gmail.com
-    phone: # +55 12 981865664
-    website: Line77.github.io #do not add http://
-    linkedin: Jose-Velarde
-    github: Line77
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
     gitlab:
     bitbucket:
-    twitter: # '@J_velarde'
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: # Line77
+    codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Español
-        level: Nativo
+      - idiom: English
+        level: Native
 
-      - idiom: Ingles
-        level: Avanzado
-        
-      - idiom: Portugues
-        level: Intermedio
-        
-#    interests:
- #     - item:
-  #      link:
-#
- #     - item:
-  #      link:
+      - idiom: French
+        level: Professional
 
+      - idiom: Spanish
+        level: Professional
 
+    interests:
+      - item: Climbing
+        link:
+
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
+        link:
 
 career-profile:
-    title: Resumén 
+    title: Career Profile
     summary: |
-      Ingeniero Electronico de la Universidad Nacional de Córdoba, Argentina. Tengo interes en programación,
-      sistemas embebidos, IoT. Mi objetivo profesional es adquirir experiencia en diseño de software y hardware.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+
+      Second paragraph if required.
 
 education:
-    - degree: Maestría en Geofísica Espacial
-      university: Instituto Nacional de Investigaciones Espaciales - INPE, São José dos Campos, SP - Brazil
-      time: 2019 - Presente
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-      
-    - degree: Ingeniero Electrónico
-      university: Universidad Nacional de Córdoba, Córdoba - Argentina
-      time: 2006 - 2019
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        
-    - degree: Técnico en Electrónica
-      university: Escuela de Educación Técnica Nº3138, Salta - Argentina
-      time: 2003 - 2005
-      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
 
 experiences:
-    - role: Becario CNPq - Maestría em Geofísica Espacial
-      time: 05.2019 - Presente
-      company: Instituto Nacional de Investigaciones Espaciales - INPE, São José dos Campos, SP - Brazil
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-        Actualmente soy colaborador del proyecto <a href="http://www.dae.inpe.br/acatmos/" target="_blank" rel="nofollow">LEONA</a>, donde realizo
-        tareas destinadas al mantenimiento y desarrollo de los equipos. 
-        
-    - role: Instalador de CCTV y Alarmas de Intrusón
-      time: 06.2016 - 12.2018
-      company: Independiente
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+
+          - Bullet point
+          - Bullet point
+
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-        Volqué la experiencia adquirida realizando soporte técnico para instaladores
-        profesionales de CCTV y alarmas de intrusión en un pequeño empredimiento, 
-        el cual termino siendo mi fuente principal de ingresos.
-        
-    - role: Soporte Técnico
-      time: 06.2015 - 02.2016
-      company: Starligh S.A.
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
-        Tareas realizadas:
-          - Soporte técnico a clientes externos e internos.
-          - Reparación de productos.
-          - Elaboración de manuales.
-          - Soporte IT.
-          - Desarrollo y dictado de cursos de capacitación.
-          
-    - role: Pasante 
-      time: 07.2012 - 06.2015
-      company: Observatorio Astronómico de Córdoba
-      details: |
-        Diseño de un sistema de observación remoto. El proyecto consistió en la 
-        implementación de un sistema de cámaras controladas remotamente.
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
 
 projects:
-    title: Proyectos
+    title: Projects
     intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: TypeTester
-        full_link: https://github.com/Line77/Type-tester-pyqt5
-        tagline: Mi primer proyecto de programación en Python, utilice PyQT para realizar la interfaz de un juego de mecanografía con el fín de imitar páginas web como <a href="https://play.typeracer.com" target="_blank" rel="nofollow">typeracer</a> o <a href="https://www.keyhero.com/free-typing-test/?lang=2" target="_blank" rel="nofollow">keyhero</a>, con la posibilidad de agregar textos personalizados.
-      
-#      - title: Belmar
-#        link: Belmar
-#        tagline: Sitio web para una nueva PyME, utilice un tema de WordPress con características personalizadas. Sitio en construcción.
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: LEONA 2018
-        full_link: http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983
-        tagline: Participe en un período del proyecto <a href="https://sites.google.com/illinois.edu/relampago/home" target="_blank" rel="nofollow">RELAMPAGO-CACTI</a>, formando parte del equipo encargado del proyecto <a href="http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983" target="_blank" rel="nofollow"> LEONA</a> cuyo objetivo es el estudio de fenómenos que ocurren en tormentas intensas. Durante esta campaña realicé instalaciones de equipos e instrumentación en 3 localidades, pertenecientes a las provincias de La Rioja y Santiago del Estero.
-      
-      - title: LEONA 2019
-        full_link: http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983
-        tagline: La campanã 2019 del proyecto LEONA se realizó de manera remota, utilizando equipos instalados en 7 ciudades de Argentina y Brasil.
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publicaciones
+    title: Publications
     intro: |
-      
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+
     papers:
-      - title: Reestructuración del Sistema de Hardware de la Red LEONA para la Observación de Eventos Luminosos Transientes 
-        authors: Velarde, J.M., Wayar, C.A. (2019)
-        conference: Universidad Nacional de Córdoba, FCEFyN - Córdoba, Argentina.
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Habilidades
+    title: Skills &amp; Proficiency
 
     toolset:
-      - name: Arduino
-        level: 100%
+      - name: Python & Django
+        level: 98%
 
-      - name: Diseño electrónico
-        level: 100%
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: Python
-        level: 90%
+      - name: Angular
+        level: 98%
 
-      - name: WordPress, HTML5 & CSS
-        level: 80%
+      - name: HTML5 & CSS
+        level: 95%
 
-      - name: JavaScript, PHP
-        level: 50%
+      - name: Ruby on Rails
+        level: 85%
 
-      - name: Sketch, Blender & Photoshop
-        level: 75%
-
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
-    Diseño por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-
-#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
