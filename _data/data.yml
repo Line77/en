@@ -59,7 +59,6 @@ education:
       details: |
         I'm researching optical electric phenomena in the middle atmosphere. My current participation in 
         the area is to develop additional software for a ground-based middle atmosphere observation system.
-
           - Automation
           - Data acquisition and processing
           - Image processing
@@ -82,6 +81,7 @@ experiences:
       time: 2016 -2018
       company: Independent
       details: |
+        To complete
 
     - role: Tech support
       time: 2015 - 2016
