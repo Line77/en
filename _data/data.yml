@@ -85,16 +85,16 @@ experiences:
       details: |
         To complete
 
-    - role: Tech support
-      time: 2015 - 2016
-      company: Starligh S.A.
-      details: |
-        "Activities:
-         - External and internal clients tech support.
-         - Product repair.
-         - Design of product manuals.
-         - IT.
-         - Design and delivery of training programs."
+#    - role: Tech support
+#      time: 2015 - 2016
+#      company: Starligh S.A.
+#      details: |
+#       "Activities:
+#         - External and internal clients tech support.
+#         - Product repair.
+#         - Design of product manuals.
+#         - IT.
+#         - Design and delivery of training programs."
 
 projects:
     title: Projects
