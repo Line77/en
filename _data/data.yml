@@ -83,16 +83,16 @@ experiences:
       company: Independent
       details: |
 
-#    - role: Tech support
-#      time: 2015 - 2016
-#      company: Starligh S.A.
-#      details: |
-#        "Activities:"
-#         - External and internal clients tech support.
-#         - Product repair.
-#         - Design of product manuals.
-#         - IT.
-#         - Design and delivery of training programs.
+    - role: Tech support
+      time: 2015 - 2016
+      company: Starligh S.A.
+      details: |
+        Activities:
+         - External and internal clients tech support.
+         - Product repair.
+         - Design of product manuals.
+         - IT.
+         - Design and delivery of training programs.
 
 projects:
     title: Projects
@@ -101,16 +101,11 @@ projects:
     assignments:
       - title: LEONA Research Campaign 2019
         full_link: http://www.inpe.br/noticias/noticia.php?Cod_Noticia=5284
-        tagline: 2019 LEONA project campaign was carried out remotely, using equipment installed in 7 cities in Argentina and Brazil. 
-        I participated in the coordination of maintainance and phenomena observation, succesfuly registering several middle atmopshere
-        optical phenomena.
+        tagline: 2019 LEONA project campaign was carried out remotely, using equipment installed in 7 cities in Argentina and Brazil. I participated in the coordination of maintainance and phenomena observation, succesfuly registering several middle atmopshere optical phenomena.
 
       - title: RELAMPAGO and LEONA Research Campaign 2018
         full_link: http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983
-        tagline: I participated in one period of the <a href="https://sites.google.com/illinois.edu/relampago/home" target="_blank" rel="nofollow">RELAMPAGO-CACTI</a> project, \
-        being part of the team in charge of project <a href="http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983" target="_blank" rel="nofollow"> LEONA </a> 
-        which aims to study of phenomena that occur up above intense storms. During this campaign I carried out the installation of instrumentation 
-        in 3 cities of Argentina, and, as well, succesfully realized observation of targeted phenomena.
+        tagline: I participated in one period of the <a href="https://sites.google.com/illinois.edu/relampago/home" target="_blank" rel="nofollow">RELAMPAGO-CACTI</a> project, being part of the team in charge of project <a href="http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983" target="_blank" rel="nofollow"> LEONA </a> that aims to study of phenomena that occur up above intense storms. During this campaign I carried out the installation of instrumentation in 3 cities of Argentina, and, as well, succesfully realized observation of targeted phenomena.
       
 #      - title: Belmar
 #        link: Belmar
