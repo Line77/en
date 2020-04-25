@@ -59,6 +59,7 @@ education:
       details: |
         I'm researching optical electric phenomena in the middle atmosphere. My current participation in 
         the area is to develop additional software for a ground-based middle atmosphere observation system.
+        
           - Automation
           - Data acquisition and processing
           - Image processing
@@ -69,6 +70,7 @@ education:
       details: |
         Developed an automatic positioning system module for an existing observation system. Installed and
         tested ground-based middle atmopshere observation systems in 3 cities of Argentina.
+        
           - Embedded systems
           
     - degree: Electronic Technician
@@ -87,16 +89,16 @@ experiences:
       time: 2015 - 2016
       company: Starligh S.A.
       details: |
-        Activities:
+        "Activities:
          - External and internal clients tech support.
          - Product repair.
          - Design of product manuals.
          - IT.
-         - Design and delivery of training programs.
+         - Design and delivery of training programs."
 
 projects:
     title: Projects
-    intro: |
+    intro: >
     
     assignments:
       - title: LEONA Research Campaign 2019
