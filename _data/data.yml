@@ -70,7 +70,6 @@ education:
       details: |
         Developed an automatic positioning system module for an existing observation system. Installed and
         tested ground-based middle atmopshere observation systems in 3 cities of Argentina.
-        
           - Embedded systems
           
     - degree: Electronic Technician
@@ -80,22 +79,21 @@ education:
       
 experiences:
     - role: CCTV and security alarms installer
-      time: 2015 -2018
+      time: 2016 -2018
       company: Independent
       details: |
 
-
     - role: Tech support
-      time: 2015 2016
+      time: 2015 - 2016
       company: Starligh S.A.
       details: |
         Activities:
-
          - External and internal clients tech support.
          - Product repair.
          - Design of product manuals.
          - IT.
          - Design and delivery of training programs.
+
 projects:
     title: Projects
     intro: >
