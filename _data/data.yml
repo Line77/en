@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: José Velarde
-    tagline: Ingeniero Electrónico
+    tagline: Electronics Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: josevelarde00@gmail.com
     phone: # +55 12 981865664
-    website: Line77.github.io #do not add http://
+    website: Line77.github.io/en/ #do not add http://
     linkedin: Jose-Velarde
     github: Line77
     gitlab:
@@ -25,14 +25,14 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Español
-        level: Nativo
+      - idiom: Spanish
+        level: Native
 
-      - idiom: Ingles
-        level: Avanzado
+      - idiom: English
+        level: Advanced
         
-      - idiom: Portugues
-        level: Intermedio
+      - idiom: Portuguese
+        level: Intermediate
         
 #    interests:
  #     - item:
@@ -44,58 +44,58 @@ sidebar:
 
 
 career-profile:
-    title: Resumén 
+    title: About me 
     summary: |
-      Ingeniero Electrónico de la Universidad Nacional de Córdoba, Argentina. Actualmente hago una maestría en el Instituto Nacional de Investigaciones Espaciales (INPE) de Brasil, trabajo en el procesamiento de datos meteorologicos satelitales para la investigación científica de fenomenos de la alta atmósfera. Mi objetivo profesional es adquirir experiencia en diseño de software aplicando Inteligencia Artificial y Machine Learning.
+        Electronic Engineer from the National University of Córdoba, Argentina. I am currently doing a master's degree at the National Institute of Space Research (INPE) of Brazil, I work in the processing of meteorological satellite data for the scientific investigation of phenomena in the upper atmosphere. My professional goal is to gain experience in software design applying Artificial Intelligence and Machine Learning.
 
 education:
-    - degree: Maestría en Geofísica Espacial
-      university: Instituto Nacional de Investigaciones Espaciales - INPE, São José dos Campos, SP - Brasil
-      time: 2019 - Presente
+    - degree: MSc in Space Geophysics
+      university: National Institute for Space Research - INPE, São José dos Campos, SP - Brazil
+      time: 2019 - Present
       details: |
       
-    - degree: Ingeniero Electrónico
-      university: Universidad Nacional de Córdoba, Córdoba - Argentina
+    - degree: Electronic engineering
+      university: National University of Córdoba, FCEFyN - Córdoba, Argentina.
       time: 2006 - 2019
       details: |
         
-    - degree: Técnico en Electrónica
-      university: Escuela de Educación Técnica Nº3138, Salta - Argentina
+    - degree: Electronics Technician
+      university: School of Technical Education Nº3138, Salta - Argentina
       time: 2003 - 2005
       details: |
 
 experiences:
-    - role: Becario CNPq - Maestría en Geofísica Espacial
-      time: 05.2019 - Presente
-      company: Instituto Nacional de Investigaciones Espaciales - INPE, São José dos Campos, SP - Brasil
+    - role: CNPq Scholarship - MSc in Space Geophysics
+      time: 05.2019 - Present
+      company: National Institute for Space Research - INPE, São José dos Campos, SP - Brazil
       details: |
-        Actualmente soy colaborador del proyecto <a href="http://www.dae.inpe.br/acatmos/" target="_blank" rel="nofollow">LEONA</a>, donde realizo tareas destinadas al mantenimiento y desarrollo de los equipos. La red LEONA consiste de estaciones de observación de Eventos Luminosos Transitorios, fenomenos de corta duracón que ocurren en la atmosfera por encima de tormentas eléctricas intensas. Las estaciones estan equipadas con cámaras de alta sensibilidad a la luz y dispositivos de control que permiten el manejo remoto del sistema.
+        I am currently a collaborator of the <a href="http://www.dae.inpe.br/acatmos/" target="_blank" rel="nofollow">LEONA</a> project, where I carry out equipment maintenance and development. The LEONA network consists of observation stations of Transient Luminous Events, short-lived phenomena that occur in the atmosphere above intense electrical storms. The stations are equipped with high sensitivity to light cameras and control devices that allow the remote management of the system.
         
-    - role: Instalador de CCTV y Alarmas de Intrusión
+    - role: CCTV and Intrusion Alarms Installer
       time: 06.2016 - 12.2018
-      company: Independiente - Córdoba
+      company: Self-Employed - Córdoba
       details: |
-        Volqué la experiencia adquirida realizando soporte técnico para instaladores profesionales de CCTV y alarmas de intrusión en un pequeño empredimiento, el cual termino siendo mi fuente principal de ingresos.
+        I used my experience as tech support for professional CCTV and intrusion alarm installers to start a small project, which ended up being my main source of income.
         
-    - role: Soporte Técnico
+    - role: Tech Support
       time: 06.2015 - 02.2016
       company: Starligh S.A. - Córdoba
       details: |
-        Tareas realizadas:
-          - Soporte técnico a clientes externos e internos.
-          - Reparación de productos.
-          - Elaboración de manuales.
-          - Soporte IT.
-          - Desarrollo y dictado de cursos de capacitación.
+        Tasks:
+            - Technical support to external and internal clients.
+            - Product repair.
+            - Design of user manuals.
+            - IT Support.
+            - Development and delivery of training courses.
           
-    - role: Pasante 
+    - role: Intern 
       time: 07.2012 - 06.2015
-      company: Observatorio Astronómico de Córdoba
+      company: Astronomical Observatory of Córdoba
       details: |
-        Diseño de un sistema de observación remoto. El proyecto consistió en la implementación de un sistema de cámaras controladas remotamente.
+        Design of a remote observation system. The project consisted of the implementation of a remotely controlled camera system.
 
 projects:
-    title: Proyectos
+    title: Projects
     intro: >
 
     assignments:
@@ -107,33 +107,37 @@ projects:
 #        link: Belmar
 #        tagline: Sitio web para una nueva PyME, utilice un tema de WordPress con características personalizadas. Sitio en construcción.
 
-      - title: LEONA 2018
+      - title: LEONA Research Campaign 2018
         full_link: http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983
-        tagline: Participe en un período del proyecto <a href="https://sites.google.com/illinois.edu/relampago/home" target="_blank" rel="nofollow">RELAMPAGO-CACTI</a>, formando parte del equipo encargado del proyecto <a href="http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983" target="_blank" rel="nofollow"> LEONA</a> cuyo objetivo es el estudio de fenómenos que ocurren en tormentas intensas. Durante esta campaña realicé instalaciones de equipos e instrumentación en 3 localidades, pertenecientes a las provincias de La Rioja y Santiago del Estero.
+        tagline: I participated in a period of the <a href="https://sites.google.com/illinois.edu/relampago/home" target="_blank" rel="nofollow">RELAMPAGO-CACTI</a> project, forming part of the team in charge of the <a href="http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983" target="_blank" rel="nofollow"> LEONA</a> project, whose objective is the study of phenomena that occur above intense storms. During this campaign I installed equipment and instrumentation in 3 locations of Argentina, in the provinces of La Rioja and Santiago del Estero.
       
-      - title: LEONA 2019
+      - title: LEONA Research Campaign 2019
         full_link: http://www.inpe.br/noticias/noticia.php?Cod_Noticia=5284
-        tagline: La campaña 2019 del proyecto LEONA se realizó de manera remota, utilizando equipos instalados en 7 ciudades de Argentina y Brasil.
+        tagline: The 2019 campaign of the LEONA project was carried out remotely, using equipment installed in 7 cities in Argentina and Brazil. I have succesfully collected data of Transient Luminous Events (TLEs) in several ocassions.
+
+      - title: LEONA 2020 Activities
+        full_link: 
+        tagline: Due to the 2020 pandemic, this campaign was focused on the data processing of the 2018 and 2019 TLE data, and the preparation of equipment for future LEONA stations. 
 
 publications:
-    title: Publicaciones
+    title: Publications
     intro: |
       
     papers:
-      - title: Reestructuración del Sistema de Hardware de la Red LEONA para la Observación de Eventos Luminosos Transientes (Tesis de grado)
+      - title: LEONA Network Hardware System Restructuration for the Observation of Transient Luminous Events (Graduate Thesis)
         authors: Velarde, J.M., Wayar, C.A. (2019)
-        conference: Universidad Nacional de Córdoba, FCEFyN - Córdoba, Argentina.
+        conference: National University of Córdoba, FCEFyN - Córdoba, Argentina.
 
 
 
 skills:
-    title: Habilidades
+    title: Skills
 
     toolset:
       - name: Arduino
         level: 100%
 
-      - name: Diseño electrónico
+      - name: Electronic Design
         level: 100%
 
       - name: Python
@@ -145,11 +149,11 @@ skills:
       - name: JavaScript, PHP
         level: 50%
 
-      - name: Modelado 3D (Blender, Marvelous Designer) y diseño 2D (Krita)
+      - name: 3D Modeling (Blender, Marvelous Designer) & 2D Design (Krita)
         level: 90%
 
 
 footer: >
-    Diseño por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
 
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
